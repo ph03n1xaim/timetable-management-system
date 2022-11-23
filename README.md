@@ -1,2 +1,2 @@
-# timetable-management-system
+# Timetable-Management-System
 Manages Timetable for the university
